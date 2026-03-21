@@ -4,16 +4,6 @@
  </a>
 </div>
 
-<div align="center">
-  <video src= https://github.com/user-attachments/assets/cdbb2d78-8d90-40ac-8c89-ff51f3cc7039 
-         autoplay 
-         loop 
-         muted 
-         playsinline 
-         style="width: 100%; max-width: 700px; border-radius: 10px;">
-  </video>
-</div>
-
 <img align="center" alt="" src="./src/header-gif.gif">
 
 #
