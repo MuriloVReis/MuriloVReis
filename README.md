@@ -1,7 +1,7 @@
 <div align="center">
- <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&size=30&duration=3000&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Bem-Vindo+ao+Meu+Perfil!" alt="Typing SVG" />
- </a>
+<a href="https://git.io/typing-svg">
+ <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=40&duration=3000&pause=1000&color=2D6FFF&background=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+To+My+Profile+!!" alt="Typing SVG" />
+</a>
 </div>
 
 ![Image](https://github.com/user-attachments/assets/fb863787-462f-467c-9921-79ac0a8a7de3)
