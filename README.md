@@ -8,8 +8,7 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center"> Olá, sou Murilo Reis, estudante de Engenharia de Software na FIAP, com formação técnica em Eletrônica. Tenho experiência profissional como Motion Design 3D Generalista, utilizando ferramentas como Blender e After Effects para criação de animações. Atualmente, concentro meus estudos em ABAP para SAP S/4HANA e desenvolvimento com SAP Fiori, criando soluções corporativas de alta complexidade.
   
 #
 
