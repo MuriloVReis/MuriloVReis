@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](mailto:seuemail@gmail.com?subject=Contato%20via%20GitHub&body=Olá,%20vim%20pelo%20seu%20repositório))
-[![LinkedIn](https://www.linkedin.com/in/murilo-vieira-dos-reis-2379423b4/)
-[![Instagram](https://www.instagram.com/murilo.vreis/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:vreismurilo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/murilo-vieira-dos-reis-2379423b4/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)]([https://www.instagram.com/mari4.souza/](https://www.instagram.com/murilo.vreis/))
 
 
 <h3 align="left">My Stack ~</h3>
