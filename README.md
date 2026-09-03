@@ -8,7 +8,12 @@
 
 #
 
-<p align="center"> Olá, sou Murilo Reis, estudante de Engenharia de Software na FIAP, com formação técnica em Eletrônica. Tenho experiência profissional como Motion Design 3D Generalista, utilizando ferramentas como Blender e After Effects para criação de animações. Atualmente, concentro meus estudos em ABAP para SAP S/4HANA e desenvolvimento com SAP Fiori, criando soluções corporativas de alta complexidade.
+<p align="center"> Sou desenvolvedor focado em Engenharia de Produto e tenho um objetivo muito claro: juntar a minha capacidade de comunicação, vendas e visão de negócio com a execução técnica para criar aplicações do ZERO e arquitetar produtos de ponta a ponta.
+
+​Não me vejo apenas como alguém que só escreve código, mas como quem entende a dor do cliente, desenha a regra de negócio e coloca a solução rodando no ar.
+
+​Atualmente, estou aplicando essa visão na prática construindo a Petify, um SaaS de gestão para pet shops. Aprendi design e edição de forma 100% autodidata na adolescência, trabalhando como freelancer, Faço desde o entendimento dos processos de vendas e UX até a arquitetura do sistema no back-end e front-end. Tenho uma base técnica sólida vinda da eletrônica (ETEC) e de lógica de programação, o que me dá bastante facilidade para resolver problemas complexos.
+
   
 #
 
