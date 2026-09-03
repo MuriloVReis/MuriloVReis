@@ -12,7 +12,7 @@
 
 ​Não me vejo apenas como alguém que só escreve código, mas como quem entende a dor do cliente, desenha a regra de negócio e coloca a solução rodando no ar.
 
-​Atualmente, estou aplicando essa visão na prática construindo a Petify, um SaaS de gestão para pet shops. Aprendi design e edição de forma 100% autodidata na adolescência, trabalhando como freelancer, Faço desde o entendimento dos processos de vendas e UX até a arquitetura do sistema no back-end e front-end. Tenho uma base técnica sólida vinda da eletrônica (ETEC) e de lógica de programação, o que me dá bastante facilidade para resolver problemas complexos.
+​Atualmente, estou aplicando essa visão na prática construindo a Petify, um SaaS de gestão para pet shops. Aprendi design e edição de forma 100% autodidata na adolescência, trabalhando como freelancer. Faço desde o entendimento dos processos de vendas e UX até a arquitetura do sistema no back-end e front-end. Tenho uma base técnica sólida vinda da eletrônica (ETEC) e de lógica de programação, o que me dá bastante facilidade para resolver problemas complexos.
 
   
 #
